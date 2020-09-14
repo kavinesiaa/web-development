@@ -1,0 +1,40 @@
+<!DOCKTYPE index.html>
+<html>
+    <head>
+        <title>
+            OUR WARDROBE
+        </title>
+    
+    </head>
+    <body>
+        <ul>
+            <li>
+                SIGN IN
+            </li>
+            <li>
+                ABOUT US
+                </li>
+        </ul>
+        <img src="https://images.creativemarket.com/0.1.0/ps/7728356/300/200/m2/fpnw/wm0/shvwrwnqmaxzbn7ta3oux1x8q5ar7gujgszrkenruyiziifgiq37v6sk37gr92n7-.jpg?1581239126&s=5b5f9750e200f6c0839a441ab9b79218">
+        <img src="image.png.png" width="1000px">
+        <form>
+            <label>
+                Enter your name
+            </label>
+            <input type="text" name="user_name" placeholder="enter name"><br>
+            <label>
+                Email id
+            </label>
+            <input type="email" name="user_email" placeholder="ENTER EMAIL ID"><br>
+            <label>
+                password
+            </label>
+            <input type="password" name="user_password" placeholder="ENTER PASSWORD"><br>
+            <input type="submit">
+            
+        </form>
+        
+
+
+    </body>
+</html>

@@ -1,0 +1,78 @@
+h1{
+    font-style: broadway;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 30px;
+
+    
+}
+ul{
+    list-style-type: none;
+    
+    
+    
+}
+
+section{
+    float: right;
+    
+}
+
+h2{
+    text-align: right;
+    text-orientation: 10px;
+    
+    
+}
+div{
+    text-align: top_left_corner;
+    position: relative;
+    left: 7px;
+
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    
+}
+li{
+    display: inline;
+    margin: 100px;
+
+}
+nav{
+    background-color: black;
+}
+li a{
+    color: white;
+
+}
+form{
+    position: relative;
+    margin-left: 10px;
+    top: 5%;
+    bottom: 90%;
+    text-align: center;
+}
+input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+body{
+    background-color: thistle;
+}
+section{
+    bottom: 90%;
+}
+
+
+
+
+
+
+
